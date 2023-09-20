@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17263094-2167-4568-8a26-cb8eccddb0f0" name="Changes" comment="알고리즘">
-      <change afterPath="$PROJECT_DIR$/src/백준/실버/a2018.java" afterDir="false" />
+    <list default="true" id="17263094-2167-4568-8a26-cb8eccddb0f0" name="Changes" comment="알고리즘 투포인터">
+      <change afterPath="$PROJECT_DIR$/src/백준/실버/a28353.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.a2018">
+  <component name="RunManager" selected="Application.a28353">
     <configuration name="백준.브론즈.a11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준.브론즈.a11720" />
       <module name="javaAgrd" />
@@ -84,6 +84,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="a28353" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="백준.실버.a28353" />
+      <module name="javaAgrd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="백준.실버.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="b11659" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="백준.실버.b11659" />
       <module name="javaAgrd" />
@@ -99,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.a28353" />
         <item itemvalue="Application.a2018" />
         <item itemvalue="Application.b11659" />
         <item itemvalue="Application.백준.브론즈.a1546" />
@@ -116,7 +130,7 @@
       <updated>1695022205749</updated>
       <workItem from="1695022209452" duration="781000" />
       <workItem from="1695084163524" duration="3324000" />
-      <workItem from="1695181031313" duration="1071000" />
+      <workItem from="1695181031313" duration="3830000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘">
       <created>1695085017352</created>
@@ -139,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695098021961</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="알고리즘 투포인터">
+      <created>1695182359154</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695182359154</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +179,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="알고리즘" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘" />
+    <MESSAGE value="알고리즘 투포인터" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 투포인터" />
   </component>
 </project>
