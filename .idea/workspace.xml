@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17263094-2167-4568-8a26-cb8eccddb0f0" name="Changes" comment="알고리즘 투포인터">
-      <change afterPath="$PROJECT_DIR$/src/백준/실버/a28353.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/문제집/a1/문자개수세기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +44,13 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.a28353">
-    <configuration name="백준.브론즈.a11720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="백준.브론즈.a11720" />
+  <component name="RunManager" selected="Application.문자개수세기">
+    <configuration name="문자개수세기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문제집.a1.문자개수세기" />
       <module name="javaAgrd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="백준.실버.*" />
+          <option name="PATTERN" value="문제집.a1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.문자개수세기" />
         <item itemvalue="Application.a28353" />
         <item itemvalue="Application.a2018" />
         <item itemvalue="Application.b11659" />
         <item itemvalue="Application.백준.브론즈.a1546" />
-        <item itemvalue="Application.백준.브론즈.a11720" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,8 @@
       <updated>1695022205749</updated>
       <workItem from="1695022209452" duration="781000" />
       <workItem from="1695084163524" duration="3324000" />
-      <workItem from="1695181031313" duration="3830000" />
+      <workItem from="1695181031313" duration="3964000" />
+      <workItem from="1695295664313" duration="1091000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘">
       <created>1695085017352</created>
@@ -160,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695182359154</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="알고리즘 투포인터">
+      <created>1695185218155</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695185218155</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
