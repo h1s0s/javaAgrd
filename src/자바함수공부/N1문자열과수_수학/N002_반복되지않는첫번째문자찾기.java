@@ -1,9 +1,9 @@
-package 자바함수공부.a1;
+package 자바함수공부.N1문자열과수_수학;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class 반복되지않는첫번째문자찾기002 {
+public class N002_반복되지않는첫번째문자찾기 {
     public static void main(String[] args) {
 
     }

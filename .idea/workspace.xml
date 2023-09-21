@@ -128,7 +128,7 @@
       <workItem from="1695022209452" duration="781000" />
       <workItem from="1695084163524" duration="3324000" />
       <workItem from="1695181031313" duration="3964000" />
-      <workItem from="1695295664313" duration="2005000" />
+      <workItem from="1695295664313" duration="2552000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘">
       <created>1695085017352</created>
@@ -172,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695297459664</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="자바 함수 공부">
+      <created>1695298662724</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695298662724</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

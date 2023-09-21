@@ -1,11 +1,11 @@
-package 자바함수공부.a1;
+package 자바함수공부.N1문자열과수_수학;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-public class 문자개수세기001 {
+public class N001_문자개수세기 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
