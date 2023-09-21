@@ -1,4 +1,4 @@
-package 자바함수공부.N1문자열과수_수학;
+package 자바함수공부.N1_문자열과수_수학;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
