@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17263094-2167-4568-8a26-cb8eccddb0f0" name="Changes" comment="알고리즘 투포인터">
-      <change afterPath="$PROJECT_DIR$/src/문제집/a1/문자개수세기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="17263094-2167-4568-8a26-cb8eccddb0f0" name="Changes" comment="자바 함수 공부" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +128,7 @@
       <workItem from="1695022209452" duration="781000" />
       <workItem from="1695084163524" duration="3324000" />
       <workItem from="1695181031313" duration="3964000" />
-      <workItem from="1695295664313" duration="1091000" />
+      <workItem from="1695295664313" duration="2005000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘">
       <created>1695085017352</created>
@@ -168,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695185218155</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="자바 함수 공부">
+      <created>1695297459664</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695297459664</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +192,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="알고리즘" />
     <MESSAGE value="알고리즘 투포인터" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 투포인터" />
+    <MESSAGE value="자바 함수 공부" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바 함수 공부" />
   </component>
 </project>
