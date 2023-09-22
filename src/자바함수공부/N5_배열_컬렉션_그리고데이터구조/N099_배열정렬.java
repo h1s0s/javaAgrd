@@ -31,9 +31,10 @@ public class N099_배열정렬 {
         }
 
         //3. 2번의 람다표현식
+        Arrays.sort(melons, (N099_Melon melon1, N099_Melon melon2)
+                -> Integer.compare(melon1.getWeight(), melon2.getWeight()));
 
-        //4. paralleSort() 메서드
-
-        //5. 4번의 람다표현식
+        //sort 메서드가 아닌 원소를 병렬로 정렬하는 paralelSort를 사용하여도 된다.
+        //내림차순으로 정렬하고자 할때, sort(배열, Collections.reversOrder());을 사용
     }
 }
