@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17263094-2167-4568-8a26-cb8eccddb0f0" name="Changes" comment="자바 함수 공부" />
+    <list default="true" id="17263094-2167-4568-8a26-cb8eccddb0f0" name="Changes" comment="자바 함수 공부">
+      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N100_배열내원소찾기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N101_두배열의동등혹은불일치검사.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N1_문자열과수_수학/N003_글자와단어뒤집기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N1_문자열과수_수학/N003_글자와단어뒤집기.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,13 +46,13 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.N099_배열정렬">
-    <configuration name="문자개수세기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="문제집.a1.문자개수세기" />
+  <component name="RunManager" selected="Application.N003_글자와단어뒤집기">
+    <configuration name="N003_글자와단어뒤집기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자바함수공부.N1_문자열과수_수학.N003_글자와단어뒤집기" />
       <module name="javaAgrd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="문제집.a1.*" />
+          <option name="PATTERN" value="자바함수공부.N1_문자열과수_수학.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N060_시간날짜없이현재날짜시간구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자바함수공부.N3_날짜와시간다루기.N060_시간날짜없이현재날짜시간구하기" />
+    <configuration name="N099_배열정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N099_배열정렬" />
       <module name="javaAgrd" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="자바함수공부.N3_날짜와시간다루기.*" />
+          <option name="PATTERN" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N099_배열정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N099_배열정렬" />
+    <configuration name="N101_두배열의동등혹은불일치검사" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N101_두배열의동등혹은불일치검사" />
       <module name="javaAgrd" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.N003_글자와단어뒤집기" />
+        <item itemvalue="Application.N101_두배열의동등혹은불일치검사" />
         <item itemvalue="Application.N099_배열정렬" />
-        <item itemvalue="Application.자바함수공부.N3_날짜와시간다루기.N060_시간날짜없이현재날짜시간구하기" />
         <item itemvalue="Application.자바함수공부.N3_날짜와시간다루기.N059_날짜와시간포매팅" />
         <item itemvalue="Application.N058_문자열을날짜와시간으로변환" />
-        <item itemvalue="Application.문자개수세기" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +134,8 @@
       <workItem from="1695084163524" duration="3324000" />
       <workItem from="1695181031313" duration="3964000" />
       <workItem from="1695295664313" duration="3329000" />
-      <workItem from="1695350775955" duration="3286000" />
+      <workItem from="1695350775955" duration="3954000" />
+      <workItem from="1695607145493" duration="1390000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘">
       <created>1695085017352</created>
@@ -208,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695354560526</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="자바 함수 공부">
+      <created>1695354975795</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1695354975795</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
