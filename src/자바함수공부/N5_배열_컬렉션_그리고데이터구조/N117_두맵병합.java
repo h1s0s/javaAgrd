@@ -8,14 +8,14 @@ public class N117_두맵병합 {
     public static void main(String[] args) {
         //두개의 맵이 있을 때 두맵의 원소를 모두 포함하는 하나의 맵으로 합치는 과정.
         //키가 충돌하면 두 번째 맵의 값을 최종 맵에 포함시킨다. 물론 디자인 결정을 다르게 내릴 수 있다
-        Map<Integer, N099_Melon> melons1 = new HashMap<>();
-        Map<Integer, N099_Melon> melons2 = new HashMap<>();
-        melons1.put(1, new N099_Melon("Apollo", 3000));
-        melons1.put(2, new N099_Melon("Jade Dew", 3500));
-        melons1.put(3, new N099_Melon("Cantaloupe", 1500));
-        melons2.put(3, new N099_Melon("Apollo", 3000));
-        melons2.put(4, new N099_Melon("Jade Dew", 3500));
-        melons2.put(5, new N099_Melon("Cantaloupe", 1500));
+        Map<Integer, Melon> melons1 = new HashMap<>();
+        Map<Integer, Melon> melons2 = new HashMap<>();
+        melons1.put(1, new Melon("Apollo", 3000));
+        melons1.put(2, new Melon("Jade Dew", 3500));
+        melons1.put(3, new Melon("Cantaloupe", 1500));
+        melons2.put(3, new Melon("Apollo", 3000));
+        melons2.put(4, new Melon("Jade Dew", 3500));
+        melons2.put(5, new Melon("Cantaloupe", 1500));
 
         Arrays.stream(new Map[]{mergeMaps(melons1, melons2)}).forEach(v -> System.out.println("v:"+v));
 

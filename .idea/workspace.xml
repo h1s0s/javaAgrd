@@ -5,24 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17263094-2167-4568-8a26-cb8eccddb0f0" name="Changes" comment="자바 함수 공부">
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N113_맵항목치환.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N114_두맵비교.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N115_맵정렬.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N116_해시맵복사.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N117_두맵병합.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N118_프레디케이트와일치하는컬렉션내모든원소삭제.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N119_컬렉션을배열로변환.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N120_리스트로컬렉션필터링.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N121_리스트원소치환.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N122_스레드_안전_컬렉션_스택_큐.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N123_너비우선탐색.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N124_트라이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N125_튜플.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N126_유니온파인드.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N127_펜윅트리또는이진덱스트리.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N128_블룸필터.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N099_Melon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N099_Melon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N099_Melon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/Melon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N099_배열정렬.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N099_배열정렬.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N113_맵항목치환.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N113_맵항목치환.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N117_두맵병합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N117_두맵병합.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N118_프레디케이트와일치하는컬렉션내모든원소삭제.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N118_프레디케이트와일치하는컬렉션내모든원소삭제.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +48,9 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.N117_두맵병합">
-    <configuration name="N106_배열채우기와할당" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N106_배열채우기와할당" />
+  <component name="RunManager" selected="Application.N120_리스트로컬렉션필터링">
+    <configuration name="N120_리스트로컬렉션필터링" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N120_리스트로컬렉션필터링" />
       <module name="javaAgrd" />
       <extension name="coverage">
         <pattern>
@@ -74,7 +62,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N107_NextGreaterElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N107_NextGreaterElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N107_NextGreaterElement" />
       <module name="javaAgrd" />
       <extension name="coverage">
@@ -87,7 +75,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N111_맵의존재부재계산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N111_맵의존재부재계산" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N111_맵의존재부재계산" />
       <module name="javaAgrd" />
       <extension name="coverage">
@@ -100,7 +88,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N113_맵항목치환" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N113_맵항목치환" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N113_맵항목치환" />
       <module name="javaAgrd" />
       <extension name="coverage">
@@ -113,7 +101,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N117_두맵병합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N117_두맵병합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N117_두맵병합" />
       <module name="javaAgrd" />
       <extension name="coverage">
@@ -128,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.N117_두맵병합" />
-        <item itemvalue="Application.N113_맵항목치환" />
-        <item itemvalue="Application.N111_맵의존재부재계산" />
-        <item itemvalue="Application.N107_NextGreaterElement" />
-        <item itemvalue="Application.N106_배열채우기와할당" />
+        <item itemvalue="Application.N120_리스트로컬렉션필터링" />
+        <item itemvalue="Application.자바함수공부.N5_배열_컬렉션_그리고데이터구조.N117_두맵병합" />
+        <item itemvalue="Application.자바함수공부.N5_배열_컬렉션_그리고데이터구조.N113_맵항목치환" />
+        <item itemvalue="Application.자바함수공부.N5_배열_컬렉션_그리고데이터구조.N111_맵의존재부재계산" />
+        <item itemvalue="Application.자바함수공부.N5_배열_컬렉션_그리고데이터구조.N107_NextGreaterElement" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +140,8 @@
       <workItem from="1695607145493" duration="2131000" />
       <workItem from="1695732632864" duration="2497000" />
       <workItem from="1695786869163" duration="2881000" />
-      <workItem from="1696123743708" duration="1766000" />
+      <workItem from="1696123743708" duration="2209000" />
+      <workItem from="1696299393506" duration="783000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘">
       <created>1695085017352</created>
@@ -259,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695789134685</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="자바 함수 공부">
+      <created>1696125694078</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1696125694078</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

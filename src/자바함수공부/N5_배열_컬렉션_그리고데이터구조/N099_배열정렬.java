@@ -19,19 +19,19 @@ public class N099_배열정렬 {
         System.out.println();
 
         //2. 객체 배열을 정리해야 할 때
-        N099_Melon[] melons = new N099_Melon[]{new N099_Melon(30), new N099_Melon(10), new N099_Melon(20)};
-        Arrays.sort(melons, new Comparator<N099_Melon>() {
+        Melon[] melons = new Melon[]{new Melon(30), new Melon(10), new Melon(20)};
+        Arrays.sort(melons, new Comparator<Melon>() {
             @Override
-            public int compare(N099_Melon melon1, N099_Melon melon2){
+            public int compare(Melon melon1, Melon melon2){
                 return Integer.compare(melon1.getWeight(), melon2.getWeight());
             }
         });
-        for(N099_Melon melon:melons){
+        for(Melon melon:melons){
             System.out.print(melon.getWeight()+" ");
         }
 
         //3. 2번의 람다표현식
-        Arrays.sort(melons, (N099_Melon melon1, N099_Melon melon2)
+        Arrays.sort(melons, (Melon melon1, Melon melon2)
                 -> Integer.compare(melon1.getWeight(), melon2.getWeight()));
 
         //sort 메서드가 아닌 원소를 병렬로 정렬하는 paralelSort를 사용하여도 된다.
