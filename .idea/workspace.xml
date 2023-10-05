@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="17263094-2167-4568-8a26-cb8eccddb0f0" name="Changes" comment="자바 함수 공부">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N099_Melon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/Melon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N099_배열정렬.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N099_배열정렬.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N113_맵항목치환.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N113_맵항목치환.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N117_두맵병합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N117_두맵병합.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N118_프레디케이트와일치하는컬렉션내모든원소삭제.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N118_프레디케이트와일치하는컬렉션내모든원소삭제.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +136,7 @@
       <workItem from="1695732632864" duration="2497000" />
       <workItem from="1695786869163" duration="2881000" />
       <workItem from="1696123743708" duration="2209000" />
-      <workItem from="1696299393506" duration="783000" />
+      <workItem from="1696299393506" duration="2121000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘">
       <created>1695085017352</created>
@@ -255,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696125694078</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="자바 함수 공부">
+      <created>1696300387380</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1696300387380</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
