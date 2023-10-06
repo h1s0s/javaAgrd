@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="17263094-2167-4568-8a26-cb8eccddb0f0" name="Changes" comment="자바 함수 공부">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N122_스레드_안전_컬렉션_스택_큐.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N122_스레드_안전_컬렉션_스택_큐.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N123_너비우선탐색.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N123_너비우선탐색.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.N120_리스트로컬렉션필터링">
+  <component name="RunManager" selected="Application.N123_너비우선탐색">
     <configuration name="N120_리스트로컬렉션필터링" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N120_리스트로컬렉션필터링" />
       <module name="javaAgrd" />
@@ -57,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N107_NextGreaterElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N107_NextGreaterElement" />
+    <configuration name="N123_너비우선탐색" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N123_너비우선탐색" />
       <module name="javaAgrd" />
       <extension name="coverage">
         <pattern>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.N123_너비우선탐색" />
         <item itemvalue="Application.N120_리스트로컬렉션필터링" />
         <item itemvalue="Application.자바함수공부.N5_배열_컬렉션_그리고데이터구조.N117_두맵병합" />
         <item itemvalue="Application.자바함수공부.N5_배열_컬렉션_그리고데이터구조.N113_맵항목치환" />
         <item itemvalue="Application.자바함수공부.N5_배열_컬렉션_그리고데이터구조.N111_맵의존재부재계산" />
-        <item itemvalue="Application.자바함수공부.N5_배열_컬렉션_그리고데이터구조.N107_NextGreaterElement" />
       </list>
     </recent_temporary>
   </component>
@@ -137,6 +139,7 @@
       <workItem from="1695786869163" duration="2881000" />
       <workItem from="1696123743708" duration="2209000" />
       <workItem from="1696299393506" duration="2121000" />
+      <workItem from="1696505247241" duration="2299000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘">
       <created>1695085017352</created>
@@ -257,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696300387380</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="자바 함수 공부">
+      <created>1696505482908</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1696505482908</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
