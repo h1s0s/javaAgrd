@@ -5,50 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17263094-2167-4568-8a26-cb8eccddb0f0" name="Changes" comment="자바 함수 공부">
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/Filters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/Melon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N166_함수형인터페이스작성하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N167_람다요약.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N168_실행어라운드패턴구현.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N169_팩터리패턴구현.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N170_전략패턴구현.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N171_템플릿메서드패턴구현.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N172_옵저버패턴구현/BrookhavenFireStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N172_옵저버패턴구현/DecaturFireStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N172_옵저버패턴구현/FireObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N172_옵저버패턴구현/FireStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N172_옵저버패턴구현/FireStationRegister.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N172_옵저버패턴구현/N172_옵저버패턴구현.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N172_옵저버패턴구현/ViningsFireStation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N173_론패턴구현.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N174_데코레이터패턴구현.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N175_캐스케이드빌더패턴구현.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N176_커맨드패턴구현.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N177_고차함수테스트.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N178_람다를사용하는메서드테스트.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N179_람다디버깅.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N180_스트림에서0이아닌_원소필터링.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N181_무한스트림.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N182_스트림매핑.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N183_스트림에서원소찾기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N184_스트림에서같은원소찾기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N185_스트림의합_최대_최소.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N186_스트림결과모으기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N187_스트림결과조인.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N188_컬렉터요약.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N189_그루핑.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N190_파티셔닝.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N191_컬렉터필터링_플래트닝_매핑.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N192_병합.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N193_맞춤형컬렉터작성.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N194_메서드참조.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N195_스트림병렬처리.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N196_널안전스트림.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N197_함수_프레디케이트_비교자구성.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N9_함수형스타일프로그래밍더깊이파고들기/N198_디폴트메서드.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N167_람다요약/LamdaExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N167_람다요약/LamdaExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N167_람다요약/람다함수기초.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N173_론패턴구현/Formula.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N125_튜플.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N5_배열_컬렉션_그리고데이터구조/N125_튜플.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N167_람다요약.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N167_람다요약/N167_람다요약.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N173_론패턴구현.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/자바함수공부/N8_함수형스타일프로그래밍의기초와디자인패턴/N173_론패턴구현/N173_론패턴구현.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,19 +38,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.N172_옵저버패턴구현">
+}]]></component>
+  <component name="RunManager" selected="Application.LamdaExample2">
+    <configuration name="LamdaExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자바함수공부.N8_함수형스타일프로그래밍의기초와디자인패턴.N167_람다요약.LamdaExample1" />
+      <module name="javaAgrd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="자바함수공부.N8_함수형스타일프로그래밍의기초와디자인패턴.N167_람다요약.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LamdaExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="자바함수공부.N8_함수형스타일프로그래밍의기초와디자인패턴.N167_람다요약.LamdaExample2" />
+      <module name="javaAgrd" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="자바함수공부.N8_함수형스타일프로그래밍의기초와디자인패턴.N167_람다요약.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="N120_리스트로컬렉션필터링" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N120_리스트로컬렉션필터링" />
       <module name="javaAgrd" />
@@ -127,39 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N113_맵항목치환" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N113_맵항목치환" />
-      <module name="javaAgrd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N117_두맵병합" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.N117_두맵병합" />
-      <module name="javaAgrd" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="자바함수공부.N5_배열_컬렉션_그리고데이터구조.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LamdaExample2" />
+        <item itemvalue="Application.LamdaExample1" />
         <item itemvalue="Application.N172_옵저버패턴구현" />
         <item itemvalue="Application.N123_너비우선탐색" />
         <item itemvalue="Application.N120_리스트로컬렉션필터링" />
-        <item itemvalue="Application.자바함수공부.N5_배열_컬렉션_그리고데이터구조.N117_두맵병합" />
-        <item itemvalue="Application.자바함수공부.N5_배열_컬렉션_그리고데이터구조.N113_맵항목치환" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +145,10 @@
       <workItem from="1695786869163" duration="2881000" />
       <workItem from="1696123743708" duration="2209000" />
       <workItem from="1696299393506" duration="2121000" />
-      <workItem from="1696505247241" duration="8962000" />
+      <workItem from="1696505247241" duration="11132000" />
+      <workItem from="1697527627616" duration="601000" />
+      <workItem from="1697774926241" duration="635000" />
+      <workItem from="1699527119973" duration="2074000" />
     </task>
     <task id="LOCAL-00001" summary="알고리즘">
       <created>1695085017352</created>
@@ -316,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696554685015</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="자바 함수 공부">
+      <created>1696907788606</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1696907788606</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

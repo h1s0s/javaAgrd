@@ -1,4 +1,4 @@
-package 자바함수공부.N8_함수형스타일프로그래밍의기초와디자인패턴;
+package 자바함수공부.N8_함수형스타일프로그래밍의기초와디자인패턴.N167_람다요약;
 
 import java.util.function.BiFunction;
 
